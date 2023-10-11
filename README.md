@@ -1,3 +1,1 @@
-# Parking Spot Controller API Rest with Java and clean architecture
-
-## Project under construction
+# Parking Spot Controller Rest API using Java Spring Boot 🍂
